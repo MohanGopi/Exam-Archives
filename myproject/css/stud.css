@@ -1,0 +1,27 @@
+body
+{
+    align-items: center;
+}
+
+.box{
+    text-align: center;
+    align-items: center;
+    height: 10%;
+    padding-top: 1%;
+    margin-top: 3%;
+}
+
+
+.bpad
+{
+    margin-top: 0.5%;
+}
+
+.bpad1
+{
+    margin-top: 3px;
+}
+.center
+{
+    display: inline-block;
+}
